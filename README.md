@@ -26,3 +26,7 @@ positional arguments:
   target       specify the hostname or IP of the target
   port         target port
 ```
+
+### Debug
+
+Instructions to capture the decrypted traffic can be found [here](https://sharkfesteurope.wireshark.org/assets/presentations17eu/15.pdf).
